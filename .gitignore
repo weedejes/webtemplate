@@ -26,3 +26,5 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+webtemplate.sublime-project
+webtemplate.sublime-workspace
