@@ -1,0 +1,27 @@
+{
+  "name": "webtemplate",
+  "version": "1.0.0",
+  "description": "A template for webapp projects based on Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weedejes/webtemplate.git"
+  },
+  "keywords": [
+    "Node.js",
+    "webapp"
+  ],
+  "author": "Wim De Smet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weedejes/webtemplate/issues"
+  },
+  "homepage": "https://github.com/weedejes/webtemplate",
+  "dependencies": {
+    "express": "^4.10.6",
+    "express-ws": "^0.2.2"
+  }
+}
